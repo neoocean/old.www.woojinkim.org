@@ -49,3 +49,9 @@
 * [현대 상업용 게임 프로젝트에서 게임디자이너의 역할](https://neoocean.net/blog/game-designers-in-modern-commercial-game-projects)
 * [유료재화와 무료재화 구분](https://neoocean.net/blog/free-gem-vs-paid-gem)
 * [아쉬움에 세계를 떠나지 못하다](https://neoocean.net/blog/sorry-that-cannot-leave-the-world)
+
+
+
+# 다른 링크
+
+* Github: <https://github.com/neoocean>
