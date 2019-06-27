@@ -54,6 +54,15 @@
 
 
 
+# 시도
+
+* [공개 기획서 제작 제안](https://neoocean.net/blog/proposal-for-making-open-game-design-document): [OpenGameDesignDocument](https://github.com/neoocean/OpenGameDesignDocument)
+
+
+
 # 다른 링크
 
 * Github: <https://github.com/neoocean>
+
+
+
