@@ -45,9 +45,9 @@
 
 ## [주요 포스팅](https://neoocean.net/blog/)
 
+* [고유번호 사례](https://neoocean.net/blog/serial-number-case)
 * [존윅3: 게임 만드는 사람 관점에서](https://neoocean.net/blog/johnwick-3-from-a-game-designer-perspective)
 * [저들에겐 맥심 기관총이 있지만 우리에겐 없다네](https://neoocean.net/blog/they-have-a-maxim-gun) 
-* [공개 기획서 제작 제안](https://neoocean.net/blog/proposal-for-making-open-game-design-document)
 * [현대 상업용 게임 프로젝트에서 게임디자이너의 역할](https://neoocean.net/blog/game-designers-in-modern-commercial-game-projects)
 * [유료재화와 무료재화 구분](https://neoocean.net/blog/free-gem-vs-paid-gem)
 * [아쉬움에 세계를 떠나지 못하다](https://neoocean.net/blog/sorry-that-cannot-leave-the-world)
