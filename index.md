@@ -4,7 +4,7 @@
 
 # woojinkim.org
 
-**김우진**. 게임회사에서 일하는 시스템디자이너.
+**김우진**. 게임회사에서 일하는 시스템디자이너. (2005년부터)
 
 * 이메일: me@woojinkim.org
 * 블로그: https://neoocean.net/blog/
@@ -21,7 +21,7 @@
 
 ## 경험
 
-* 시스템디자인, [스마일게이트](http://www.smilegate.com/) (현재)
+* **시스템디자인**, [스마일게이트](http://www.smilegate.com/) (현재)
 
 - 게임디자인 및 UI디자인, [넷게임즈](http://www.natgames.co.kr/) (2017-2018)
   - [오버히트](https://overhit.nexon.com/) 프로젝트 개발 및 라이브서비스.
