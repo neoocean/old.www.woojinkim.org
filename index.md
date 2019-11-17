@@ -13,9 +13,9 @@
 
 ## 시스템디자인
 
-- **시스템 설계**: 요구사항을 효과적으로 달성할 수 있는 단순한 시스템 설계 및 개발진행.
-- **개발과정 설계**: 최종 목표에 도달하기 위한 기간 별 소규모 목표 설계 및 실행.
-- **개념정의**: 복잡해 보이는 시스템을 단순한 개념으로 이해하기 쉽게 정리.
+- **시스템설계**: 요구사항을 효과적으로 달성할 수 있는 단순하고 유연한 시스템 설계 및 개발진행.
+- **파이프라인설계**: 목표에 도달하기 위한 기간 별 소규모 목표, 파이프라인 설계 및 운용.
+- **개념정의**: 복잡해 보이는 시스템을 단순한 개념으로 정리 및 전파.
 
 
 
@@ -45,7 +45,8 @@
 
 ## [주요 포스팅](https://neoocean.net/blog/)
 
-* [고유번호 사례](https://neoocean.net/blog/serial-number-case)
+* [게임디자인 윤리](https://neoocean.net/blog/game-design-ethics)
+* [트림원 바이크컴퓨터 사용기](https://neoocean.net/blog/trimm-one-bikecomputer-review)
 * [존윅3: 게임 만드는 사람 관점에서](https://neoocean.net/blog/johnwick-3-from-a-game-designer-perspective)
 * [저들에겐 맥심 기관총이 있지만 우리에겐 없다네](https://neoocean.net/blog/they-have-a-maxim-gun) 
 * [현대 상업용 게임 프로젝트에서 게임디자이너의 역할](https://neoocean.net/blog/game-designers-in-modern-commercial-game-projects)
