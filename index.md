@@ -64,6 +64,3 @@
 # 다른 링크
 
 * Github: <https://github.com/neoocean>
-
-
-
