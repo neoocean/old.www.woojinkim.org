@@ -66,7 +66,7 @@
 
 # 시도
 
-* [브레베 데이터베이스](https://neoocean.net/b/start) ([참고](https://neoocean.net/blog/brevet-database))
+* [브레베 데이터베이스](https://neoocean.net/b/start) ([참고](https://neoocean.net/blog/brevet-database)): 한국랜도너스의 브레베 정보를 데이터베이스 기반으로 표시.
 
 
 
