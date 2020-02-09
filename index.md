@@ -47,6 +47,10 @@
 
 ## [주요 포스팅](https://neoocean.net/blog/)
 
+* [통역](https://neoocean.net/blog/translate)
+* [경영 시뮬레이션](https://neoocean.net/blog/management-simulation)
+* [문서 길이 줄이기](https://neoocean.net/blog/reduce-document-length)
+* [조상들의 오버 테크놀러지](https://neoocean.net/blog/life-skills-on-online-games)
 * [유행](https://neoocean.net/blog/trend)
 * [성장감](https://neoocean.net/blog/feeling-of-growth)
 * [세계와 게임의 관계 역전](https://neoocean.net/blog/reverse-the-relationship-between-the-real-world-and-the-game)
