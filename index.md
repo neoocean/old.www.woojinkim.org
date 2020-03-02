@@ -47,6 +47,7 @@
 
 ## [주요 포스팅](https://neoocean.net/blog/)
 
+* [양산형](https://neoocean.net/blog/mass-production)
 * [통역](https://neoocean.net/blog/translate)
 * [경영 시뮬레이션](https://neoocean.net/blog/management-simulation)
 * [문서 길이 줄이기](https://neoocean.net/blog/reduce-document-length)
@@ -56,7 +57,6 @@
 * [세계와 게임의 관계 역전](https://neoocean.net/blog/reverse-the-relationship-between-the-real-world-and-the-game)
 * [튜토리얼](https://neoocean.net/blog/game-tutorial)
 * [게임디자인 윤리](https://neoocean.net/blog/game-design-ethics)
-* [트림원 바이크컴퓨터 사용기](https://neoocean.net/blog/trimm-one-bikecomputer-review)
 * [존윅3: 게임 만드는 사람 관점에서](https://neoocean.net/blog/johnwick-3-from-a-game-designer-perspective)
 * [저들에겐 맥심 기관총이 있지만 우리에겐 없다네](https://neoocean.net/blog/they-have-a-maxim-gun) 
 * [현대 상업용 게임 프로젝트에서 게임디자이너의 역할](https://neoocean.net/blog/game-designers-in-modern-commercial-game-projects)
