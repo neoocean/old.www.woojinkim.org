@@ -2,9 +2,24 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>woojinkim.org</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
+<title>woojinkim.org</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+
+<style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
-body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+body { 
+    margin: 100px; 
+    padding: 0px; 
+    height: auto; 
+    bottom: 100px; 
+    top: 100px; 
+    left: 0px; 
+    right: 0px; 
+    font-size: 1rem; 
+    line-height: 1.4; 
+    overflow-x: hidden; 
+    background: inherit; 
+    tab-size: 4; 
+}
 iframe { margin: auto; }
 a.url { word-break: break-all; }
 a:active, a:hover { outline: 0px; }
@@ -465,6 +480,11 @@ header, .context-menu, .megamenu-content, footer{
     font-family: "Segoe UI", "Arial", sans-serif;
 }
 
+.content {
+    max-width: 800px;
+    margin: auto;
+}
+
 .file-node-content:hover .file-node-icon,
 .file-node-content:hover .file-node-open-state{
     visibility: visible;
@@ -504,9 +524,9 @@ header, .context-menu, .megamenu-content, footer{
 </head>
 
 <body>
+<div class="content">
 <figure>
 <img src="profile.png" alt="profile" />
-<figcaption>profile</figcaption>
 </figure>
 
 <h1>woojinkim.org</h1>
@@ -577,5 +597,7 @@ header, .context-menu, .megamenu-content, footer{
 <ul>
 <li>Github: <a href="https://github.com/neoocean">https://github.com/neoocean</a></li>
 </ul>
+
+</div>
 </body>
 </html>
